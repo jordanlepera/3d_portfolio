@@ -1,6 +1,6 @@
 # 3D portfolio
 
-This is a 3D portfolio website. It is built with [React](https://reactjs.org/) and [Three.js](https://threejs.org/).
+This is a 3D portfolio website. It is built with [React](https://reactjs.org/), [Three.js](https://threejs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
 Install:
 

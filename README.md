@@ -2,6 +2,8 @@
 
 This is a 3D portfolio website. It is built with [React](https://reactjs.org/), [Three.js](https://threejs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
+[Portfolio](https://jordanlepera.netlify.app/)
+
 Install:
 
 ```bash

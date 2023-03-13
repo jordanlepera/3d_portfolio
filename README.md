@@ -5,7 +5,7 @@ This is a 3D portfolio website. It is built with [React](https://reactjs.org/), 
 Install:
 
 ```bash
-npm install
+pnpm install or yarn or npm install
 ```
 
 Develop:

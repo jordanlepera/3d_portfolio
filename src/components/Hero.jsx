@@ -24,8 +24,11 @@ const Hero = () => {
         </div>
       </div>
       <ComputersCanvas />
-      <div className="absolute sm:bottom-10 bottom-44 w-full flex justify-center items-center">
-        <a href="#about">
+      <div className="absolute sm:bottom-10 bottom-32 w-full flex justify-center items-center">
+        <a
+          href="#about"
+          className="flex items-center justify-center flex-col gap-2 select-none"
+        >
           <div className="w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2">
             <motion.div
               animate={{
@@ -39,6 +42,7 @@ const Hero = () => {
               className="w-3 h-3 rounded-full bg-secondary mb-1"
             />
           </div>
+          SCROLL DOWN
         </a>
       </div>
     </section>

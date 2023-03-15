@@ -38,6 +38,9 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import logitech from "./company/logitech.png";
+import liebherr from "./company/liebherr.svg";
+import lefilliatrehirschy from "./company/lfh.svg";
+import backingtracklive from "./company/btl.svg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -82,6 +85,9 @@ export {
   starbucks,
   tesla,
   logitech,
+  liebherr,
+  lefilliatrehirschy,
+  backingtracklive,
   carrent,
   jobit,
   tripguide,

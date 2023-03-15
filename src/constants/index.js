@@ -277,7 +277,7 @@ const projects = [
   {
     name: "Chanalog",
     description:
-      "Web platform that performs sentiment analysis and organic activity on 4chan /biz/ board to provide users with a better understanding of the current trends surrounding a particular cryptocurrency.",
+      "Web3 platform that performs sentiment analysis and organic activity on 4chan /biz/ board to provide users with a better understanding of the current trends surrounding a particular cryptocurrency.",
     tags: [
       {
         name: "next.js",

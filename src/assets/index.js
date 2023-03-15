@@ -46,6 +46,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import chanalog from "./chanalog.jpg";
+import comingsoon from "./comingsoon.png";
 
 export {
   logo,
@@ -93,4 +94,5 @@ export {
   tripguide,
   chanalog,
   codinov,
+  comingsoon,
 };
